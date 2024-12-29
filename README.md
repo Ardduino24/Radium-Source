@@ -14,3 +14,5 @@ This was just a learners exploit, it wasn't meant for actual production, and it 
 
 <h1>Extra notes</h1>
 Tbh, idrc if anyone uses this, as it's already been leaked, but if anyone skids this, I'm not gonna say shit, I already know people will get on their asses for skidding this anyway. Not my problem really.
+
+This project is finished.
